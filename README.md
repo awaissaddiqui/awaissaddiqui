@@ -18,10 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@saddiquiawais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saddiquiawais" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awais saddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais saddiqui" height="30" width="40" /></a>
-<a href="https://fb.com/awais saddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://fb.com/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais saddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/awaissaddiuqi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaissaddiuqi143" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/awais saddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaissaddiqui&show_icons=true&locale=en&layout=compact" alt="awaissaddiqui" /></p>
