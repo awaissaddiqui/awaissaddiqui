@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **REACT**
 
-- 🌱 I’m currently learning ** Vue,Next.Js etc**
+- 🌱 I’m currently learning <h2> Vue,Next.Js, python </h2>
 
 - 📫 How to reach me **awaissaddiqui143@gmail.com**
 
@@ -17,11 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@saddiquiawais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saddiquiawais" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais saddiqui" height="30" width="40" /></a>
-<a href="https://fb.com/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://twitter.com/SaddiquiAwais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@saddiquiawais" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/awais-saddiqui-69b80020a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100071703744920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="awais saddiqui" height="30" width="40" /></a>
 <a href="https://instagram.com/awaissaddiuqi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaissaddiuqi143" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/awaissaddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC01E7iSy_KP-H6vq0QWLCjQ/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaissaddiqui&show_icons=true&locale=en&layout=compact" alt="awaissaddiqui" /></p>
