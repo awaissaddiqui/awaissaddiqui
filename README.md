@@ -23,6 +23,7 @@
 <a href="https://instagram.com/awaissaddiuqi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaissaddiuqi143" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC01E7iSy_KP-H6vq0QWLCjQ/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
 </p>
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/awaissaddiqui/stacks)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaissaddiqui&show_icons=true&locale=en&layout=compact" alt="awaissaddiqui" /></p>
 
