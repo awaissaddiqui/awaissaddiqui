@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaissaddiqui" alt="awaissaddiqui" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@saddiquiawais" target="blank"><img src="https://img.shields.io/twitter/follow/@saddiquiawais?logo=twitter&style=for-the-badge" alt="@saddiquiawais" /></a> </p>
+<p align="left"> <a href="https://twitter.com/SaddiquiAwais" target="blank"><img src="https://img.shields.io/twitter/follow/@saddiquiawais?logo=twitter&style=for-the-badge" alt="@saddiquiawais" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Development**
 
