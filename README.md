@@ -23,7 +23,7 @@
 <a href="https://instagram.com/awaissaddiuqi143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awaissaddiuqi143" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC01E7iSy_KP-H6vq0QWLCjQ/about" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="awais saddiqui" height="30" width="40" /></a>
 </p>
-<a data-theme="dark" data-layers="1,2,3,4" data-stack-embed="true" href="https://embed.stackshare.io/stacks/embed/c5d43d44139a2fa3d0a6a355fa2fff"></a><script async src="https://cdn1.stackshare.io/javascripts/client-code.js" charset="utf-8"></script>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awaissaddiqui&show_icons=true&locale=en&layout=compact" alt="awaissaddiqui" /></p>
 
