@@ -7,9 +7,9 @@
 
 
 
-- 🔭 I’m currently working on **REACT**
+- 🔭 I’m currently working on **MERN Stack Devepolment**
 
-- 🌱 I’m currently learning <h2> Vue,Next.Js, python </h2>
+- 🌱 I’m currently learning <h2> Vue,Next.Js & Python </h2>
 
 - 📫 How to reach me **awaissaddiqui143@gmail.com**
 
