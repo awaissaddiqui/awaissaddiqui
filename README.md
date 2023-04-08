@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm AWAIS SADDIQUI</h1>
-<h3 align="center">A passionate developer from PAKISTAN . Studying Computer System Engineering at University of Engineering and Technology Peshawar</h3>
-
+<h3 align="center">Hello there! I'm a computer system engineer and MERN stack developer with a passion for learning and implementing machine learning and artificial intelligence technologies.</h3>
+<p> My expertise lies in building scalable and robust web applications using the MERN stack. I believe in the power of technology to solve real-world problems, and I strive to create software solutions that have a positive impact on people's lives.</p>
+<p>If you're interested in collaborating or have any questions, feel free to reach out to me. Let's work together to build something amazing!</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awaissaddiqui&label=Profile%20views&color=0e75b6&style=flat" alt="awaissaddiqui" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaissaddiqui" alt="awaissaddiqui" /></a> </p>
